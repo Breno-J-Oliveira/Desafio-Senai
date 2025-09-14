@@ -68,7 +68,7 @@ O design e a estrutura do site foram montados seguindo o material do desafio e r
 Aqui você pode adicionar prints do site em diferentes dispositivos:  
 
 <p align="center">
-  <img src="assets/print-desktop.png" alt="" width="700px">  
+  <img src="print1.png" alt="" width="700px">  
 </p>  
 
 ---
