@@ -15,8 +15,9 @@
 2. [Funcionalidades](#-funcionalidades)  
 3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
 4. [Protótipo / Layout](#-protótipo--layout)  
-5. [Conclusão](#-conclusão)  
-6. [Contatos](#-contatos)  
+5. [Imagens do Site](#-imagens-do-site)  
+6. [Conclusão](#-conclusão)  
+7. [Contatos](#-contatos)  
 
 ---
 
@@ -59,6 +60,16 @@ O design e a estrutura do site foram montados seguindo o material do desafio e r
     <img src="https://img.shields.io/badge/Ver%20Protótipo-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Ver Protótipo">
   </a>
 </p>
+
+---
+
+## 🖼️ Imagens do Site  
+
+Aqui você pode adicionar prints do site em diferentes dispositivos:  
+
+<p align="center">
+  <img src="assets/print-desktop.png" alt="" width="700px">  
+</p>  
 
 ---
 
